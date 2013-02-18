@@ -1,0 +1,13 @@
+Created By Nick at 2013/02/18
+
+a home family system using f#
+
+First step 
+C# Version using NancyFx!+raptorDB to build family system
+
+Second Version
+F# Version using Self Implement to build fmily system
+
+module list
+http based service +no sqldb
+portal using css3+html5
