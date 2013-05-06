@@ -1,5 +1,6 @@
 FFish Application
 =====
 
-application for net to build home system
+application for f# to build home system
 a lightweight family system using NancyFx!+raptorDB
+Add .less export to f# 
