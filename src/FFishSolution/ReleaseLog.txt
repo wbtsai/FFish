@@ -11,3 +11,13 @@ F# Version using Self Implement to build fmily system
 module list
 http based service +no sqldb
 portal using css3+html5
+
+Node Template Engine:jade.net
+https://github.com/visionmedia/jade.git 
+Parser
+https://github.com/fizmo/jade.net.git
+
+F# F.Jade
+export to f# version
+
+I find 

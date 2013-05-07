@@ -6,7 +6,19 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Release", "Release", "{401B
 		ReleaseLog.txt = ReleaseLog.txt
 	EndProjectSection
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FLess.Core", "FLess.Core\FLess.Core.fsproj", "{5B67D079-923D-4456-886E-C8DF3548959F}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B67D079-923D-4456-886E-C8DF3548959F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B67D079-923D-4456-886E-C8DF3548959F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B67D079-923D-4456-886E-C8DF3548959F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B67D079-923D-4456-886E-C8DF3548959F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
